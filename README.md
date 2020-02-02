@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 For Git and Github illustration purposes
-
+Adding a line for rebasing practice
 ## Introduction
 random filler text
 ## Purpose
