@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 For Git and Github illustration purposes
-Adding a line for rebasing practice
+Adding a line for rebasing practice, then more changes from
+myfeature branch
 ## Introduction
 random filler text
 ## Purpose
