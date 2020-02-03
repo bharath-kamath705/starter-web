@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-For Git and Github illustration purposes
+Toy repo for Git and Github practice
 
 ## Introduction
 random filler text
@@ -11,4 +11,4 @@ more random filler text
 ## How to Contribute
 fork this repo and issue pull request for review
 ### Copyright
-2014 Git.Training.
+2020 Git.Training.
