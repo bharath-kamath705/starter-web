@@ -1,11 +1,19 @@
 <!DOCTYPE html>
 <!--
 	Copyright 2020 Git.Training
+<<<<<<< HEAD
 	Adding small troubles in master
 -->
 
 <head>
-	<title>An Example Website</title>
+	<title>An Example small trouble</title>
+=======
+	Making changes on bigtrouble branch
+-->
+
+<head>
+	<title>An Example trouble here</title>
+>>>>>>> fb added trouble to simple
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,7 +27,11 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
+<<<<<<< HEAD
 			Some small trouble here in master
+=======
+			Some dummy big trouble here
+>>>>>>> fb added trouble to simple
 		</p>
 	</main>
 	<footer class="container">
