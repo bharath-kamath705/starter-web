@@ -1,8 +1,6 @@
 # Starter Web Repo
 
-For Git and Github illustration purposes
-Adding a line for rebasing practice, then more changes from
-myfeature branch
+Toy repo for Git and Github practice
 ## Introduction
 random filler text
 ## Purpose
@@ -12,4 +10,3 @@ more random filler text
 ## How to Contribute
 fork this repo and issue pull request for review
 ### Copyright
-2014 Git.Training.
