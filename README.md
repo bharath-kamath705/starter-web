@@ -10,3 +10,4 @@ more random filler text
 ## How to Contribute
 fork this repo and issue pull request for review
 ### Copyright
+All rights reserved
