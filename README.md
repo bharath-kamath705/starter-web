@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Toy repo for Git and Github practice
+Toy repo for Git and Github practice. fix after stash
 ## Introduction
 random filler text
 ## Purpose
